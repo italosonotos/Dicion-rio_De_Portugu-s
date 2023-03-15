@@ -7,6 +7,7 @@
 body{
     width: 100vw;
     height: 100vh;
+    background-image: linear-gradient(#56C0DB, #3F7E8F);
 }
 
 .container{
@@ -16,12 +17,12 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(#56C0DB, #3F7E8F);
+
 }
 
-#titulo{
+.titulo{
     margin-bottom: 40px;
-    font-size: 25pt;
+    font-size: 23pt;
     color: white;
 }
 
